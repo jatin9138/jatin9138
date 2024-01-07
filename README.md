@@ -33,9 +33,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatin9138&show_icons=true&locale=en&layout=compact" alt="jatin9138" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatin9138&show_icons=true&locale=en" alt="jatin9138" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin9138&" alt="jatin9138" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatin9138&show_icons=true&locale=en" alt="jatin9138" /></p>
 
-<p align="center"><span style="color: #999999;"><em><strong>The right man in the wrong place can make all the difference in the world.</strong></em></span></p>
+
+
+<p align="center"><span style=" color: #999999;"><em><strong>The right man in the wrong place can make all the difference in the world.</strong></em></span></p>
